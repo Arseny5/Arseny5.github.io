@@ -1,4 +1,14 @@
 
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Гемотест - Проверка справки COVID-19</title>
+	<link href="https://fonts.googleapis.com/css?family=Inter:500,600,800&display=swap&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+	<link rel="stylesheet" href="main.css">
+
+</head>
 <body>
 <div class="wrapper">
 	<div id="all">
@@ -66,3 +76,4 @@
 	</div>
 </div>
 </body>
+</html>
