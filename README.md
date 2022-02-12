@@ -1,3 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Гемотест - Проверка справки COVID-19</title>
+<link href="https://fonts.googleapis.com/css?family=Inter:500,600,800&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet" />
+<link rel="stylesheet" href="main.css" />
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Arseny5.github.io" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://arseny5.github.io/" />
+<meta property="og:url" content="https://arseny5.github.io/" />
+<meta property="og:site_name" content="Arseny5.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Arseny5.github.io" />
+<script type="application/ld+json">
+{"url":"https://arseny5.github.io/","@type":"WebSite","headline":"Arseny5.github.io","name":"Arseny5.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=e04a35a3fd97366df5ac31423857df86b7937b71">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
 <div class="wrapper">
@@ -65,3 +103,9 @@
 		</div>
 	</div>
 </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
