@@ -1,4 +1,4 @@
-
+<!-- 
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="main.css">
 
 </head>
-<body>
+<body> -->
 <div class="wrapper">
 	<div id="all">
 		<div class="header">
@@ -76,5 +76,5 @@
 		</div>
 	</div>
 </div>
-</body>
-</html>
+<!-- </body>
+</html> -->
