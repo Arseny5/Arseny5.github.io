@@ -20,7 +20,6 @@
 						</svg>
 					</a>
 				</div>
-				<a href="/">gemotest.ru</a>
 			</div>
 		</div>
 
